@@ -9,8 +9,8 @@ html {
 }
 
 .page {
-  margin: auto;
-  padding: 133px 30px 30px;
+  display: flex;
+  margin: auto; 
   color: #fff;
   font-family: "Fira Sans Condensed", sans-serif;
   font-weight: 400;
@@ -53,7 +53,7 @@ ol {
   display: flex;
   align-items: end;
   column-gap: 30px;
-  margin: 0 auto;
+  margin: auto;
   inline-size: 100%;
 }
 

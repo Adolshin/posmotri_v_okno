@@ -1,1 +1,1 @@
-https://github.com/Adolshin/ono-tebe-nado
+https://github.com/Adolshin/posmotri_v_okno

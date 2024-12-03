@@ -118,14 +118,14 @@ ol {
   padding-block-start: 2px;
   padding-block-end: 2px;
   color: inherit;
-  font-family: inherit;  
+  font-family: inherit;
+  font-weight: inherit;  
   font-size: inherit;
-  font-weight: inherit;
   line-height: 122%;
+  letter-spacing: -0.2px;
   background-color: transparent;
   min-inline-size: 225px;
   appearance: none;
-  letter-spacing: -0.2px;
 }
 
 .search-form__textfield:focus {
@@ -169,8 +169,7 @@ ol {
   opacity: 1;
 }
 
-.search-form__pseudo-checkbox {
-  display: block;
+.search-form__pseudo-checkbox { 
   display: flex;
   margin-inline-end: 5px;
   border: 1px solid #fff;
